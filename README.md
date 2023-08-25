@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shaikfarhathulla
-- 👀 I’m interested in web development, Machine Learning, Data science.
-- 🌱 I’m currently polishing my skills which helps me in making accurate projects of fullstack development, ML and AI, and many more
-- 💞️ I’m ready to help you in buliding your project. I'm also looking for job opportunity
-- 📫 Gmail : farhathulla0909.shaik@gmail.com 
+- 👀 I’m interested in web development, Java Fullstack, Machine Learning, Data science.
+- 🌱 I’m currently polishing my skills which helps me in making accurate projects of fullstack development, ML and AI, and many more.
+- 💞️ I'm looking for job opportunity. I’m also ready to help you in buliding your project.
+- 📫 Gmail : farhathulla0909.shaik@gmail.com
 
 <!---
 Shaikfarhathulla/Shaikfarhathulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
