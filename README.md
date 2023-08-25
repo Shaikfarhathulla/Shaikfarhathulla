@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shaikfarhathulla
+- 👋 Hello, I’m @Shaikfarhathulla
 - 👀 I’m interested in web development, Java Fullstack, Machine Learning, Data science.
 - 🌱 I’m currently polishing my skills which helps me in making accurate projects of fullstack development, ML and AI, and many more.
 - 💞️ I'm looking for job opportunity. I’m also ready to help you in buliding your project.
