@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaik Farhathulla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3 align="center" style={line-height: "0px"}>-----------------------------------------------------</h3>
+<h3 align="center" style={padding-top: "0px"}>-----------------------------------------------------</h3>
 
 
 - 🔭 I’m currently working on **Human Resource Management System**
