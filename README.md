@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Farhathulla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java FullStack developer from India</h3>
 <br>
 <br>
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://shaikfarhathulla.github.io/portfoilio/](https://shaikfarhathulla.github.io/portfoilio/)
 
-- 💬 Ask me about **React, Java, Bootstrap, Tailwind**
+- 💬 Ask me about **React, Java, SpringBoot, Bootstrap, Tailwind**
 
 - 📫 How to reach me **farhathulla0909.shaik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mnqn1V9o0Sh8zjZiBNaU6O5NQmpuOfS_/view](https://drive.google.com/file/d/1mnqn1V9o0Sh8zjZiBNaU6O5NQmpuOfS_/view)
 
-- ⚡ Fun fact **I think I am creative and friendly**
+- ⚡ Fun fact **I am creative and friendly**
 
 
 
